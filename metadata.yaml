@@ -1,10 +1,13 @@
 _repo: The-Stone-Axe-of-Burkamukk_56699
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Macfarlane, J.
     gutenberg_agent_id: '6648'
     url: http://www.gutenberg.org/2009/agents/6648
+covers:
+- cover_type: archival
+  image_path: 56699-h/images/img-cover.jpg
 creator:
   author:
     agent_name: Bruce, Mary Grant
@@ -13,6 +16,8 @@ creator:
     gutenberg_agent_id: '1371'
     url: http://www.gutenberg.org/2009/agents/1371
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/56699#The-Stone-Axe-of-Burkamukk
 gutenberg_issued: '2018-03-07'
 gutenberg_type: Text
 identifiers:
