@@ -1,0 +1,27 @@
+_repo: The-Stone-Axe-of-Burkamukk_56699
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Macfarlane, J.
+    gutenberg_agent_id: '6648'
+    url: http://www.gutenberg.org/2009/agents/6648
+creator:
+  author:
+    agent_name: Bruce, Mary Grant
+    birthdate: 1878
+    deathdate: 1958
+    gutenberg_agent_id: '1371'
+    url: http://www.gutenberg.org/2009/agents/1371
+description: ''
+gutenberg_issued: '2018-03-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '56699'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Stone Axe of Burkamukk
+url: http://www.gutenberg.org/ebooks/56699
